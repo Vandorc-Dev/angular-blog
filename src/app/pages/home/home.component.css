@@ -1,0 +1,18 @@
+.articles{
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    width: 82%;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.articles_main{
+    margin-right: 22px;
+}
+
+header{
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
