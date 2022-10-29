@@ -6,12 +6,12 @@
 .container_menu-title > h1{
     margin-top: 15px;
     margin-bottom: 15px;
-    font-size: 180px;
+    font-size: 140px;
     display: flex;
     justify-content: center;
     font-weight: bold;
     font-family: 'segoe UI';
-    text-shadow: 5px 5px 4px #ffffff;
+    text-shadow: 5px 5px 4px #e60d0d;
 }
 
 .container_menu-title > hr{

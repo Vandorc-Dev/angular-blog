@@ -1,7 +1,7 @@
 .container_big-card{
     border: solid 3px white;
     width: 400px;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -15,7 +15,7 @@
 }
 
 .big-card_title{
-    font-size: 18px;
+    font-size: 12px;
     margin-top: 10px;
 }
 
